@@ -1,6 +1,4 @@
-#TO DO LIST APP
-
-## Getting Started
+## TO DO APP 
 
 This project is a starting point for a Flutter application.
 
